@@ -1,1 +1,2 @@
-Creating a custom weather app utilizing NWS APIs and Material 3 Expressive
+Creating a custom weather app to web-scrape NWS API weather data and other atmospheric layers 
+This repo is the backend to the UI frontend
